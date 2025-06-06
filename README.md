@@ -92,7 +92,7 @@ XGBoost performed the best and was selected as the final model. Feature importan
 ## 🤝 Contact
 
 📧 eshaguptacorp@gmail.com  
-🌐 [LinkedIn](kedin.com/in/esha-gupta-07b3521a6)
+🌐 [LinkedIn](https://www.linkedin.com/in/esha-gupta-07b3521a6/))
 
 ---
 
