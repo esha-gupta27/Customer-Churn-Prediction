@@ -1,6 +1,4 @@
 # 🧠 Customer Churn Prediction  
-**Bachelor’s Thesis – Final Year Project**  
-St. Xavier’s College, BSc IT  
 By: Esha Gupta  
 
 ---
